@@ -1,6 +1,6 @@
-# Server Performance Stat
+# Server Performance Stats
 
-Server Performance Stat is a script to analyse basic server performance stats.
+Server Performance Stats is a script to analyse basic server performance stats.
 
 ## Description
 
@@ -11,10 +11,20 @@ The script should be able to run on any Linux server and it should give you the 
   - Top 5 processes by CPU usage
   - Top 5 processes by memory usage
 
-## Running the Program
+## Getting Started
 
-Run the command ```bash server-stats.sh``` to display the values on your Linux terminal.
+1. **Clone the repository**
+```
+git clone https://github.com/francis1009/server-performance-stats.git
+cd server-performance-stats
+```
+
+2. **Make the script executable**
+```chmod +x server-stats.sh```
+
+3. **Execute the script**
+```./server-stats.sh```
 
 ## Credits
 
-This project is part of a list of projects listed by [roadmap.sh](https://roadmap.sh/projects/server-stats)
+This project is part of a list of DevOps projects by [roadmap.sh](https://roadmap.sh/projects/server-stats).
