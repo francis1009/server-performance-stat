@@ -32,3 +32,7 @@ chmod +x server-stats.sh
 ## Credits
 
 This project is part of a list of DevOps projects by [roadmap.sh](https://roadmap.sh/projects/server-stats).
+
+## License
+
+This project is licensed under the terms of the GNU General Public License v2.0. See `LICENSE` for more information.
